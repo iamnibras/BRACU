@@ -20,6 +20,10 @@ BRACUCSE250 - Circuits and Electronics
 
 CSE 250
 
+BRACUCSE251 - Electronic Devices and Circuits
+
+CSE 251
+
 BRACUCSE321 - Operating Systems
 
 CSE 321
